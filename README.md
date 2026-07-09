@@ -4,18 +4,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
