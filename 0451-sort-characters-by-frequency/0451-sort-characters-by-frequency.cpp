@@ -4,7 +4,6 @@ public:
         auto cmp = [](const pair<char, int>& a, const pair<char, int>& b) {
             return a.second < b.second;
         };
-        
         priority_queue<pair<char, int>, vector<pair<char, int>>, decltype(cmp)> pq(cmp);
         
         unordered_map<char, int> hm;
