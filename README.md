@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
