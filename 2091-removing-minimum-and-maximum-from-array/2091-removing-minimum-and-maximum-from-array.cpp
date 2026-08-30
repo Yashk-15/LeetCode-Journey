@@ -3,15 +3,25 @@ public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
 
-        int minIndex = min_element(nums.begin(), nums.end()) - nums.begin();
-        int maxIndex = max_element(nums.begin(), nums.end()) - nums.begin();
+        int minIndex = 0;
+        int maxIndex = 0;
 
-        int left = min(minIndex, maxIndex);
-        int right = max(minIndex, maxIndex);
-        int front = right + 1;
-        int back = n - left;
-        int frontBack = (left + 1) + (n - right);
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < nums[minIndex]) {
+                minIndex = i;
+            }
 
-        return min({front, back, frontBack});
+            if (nums[i] > nums[maxIndex]) {
+                maxIndex = i;
+            }
+        }
+
+        int removeFromFront = max(minIndex, maxIndex) + 1;
+        int removeFromBack = n - min(minIndex, maxIndex);
+        int removeFromBothSides = min(
+            minIndex + 1 + (n - maxIndex),
+            maxIndex + 1 + (n - minIndex)
+        );
+        return min(removeFromFront, min(removeFromBack, removeFromBothSides));
     }
 };
