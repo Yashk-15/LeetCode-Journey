@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0994-rotting-oranges](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yashk-15/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quickselect
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
 |  |
 | ------- |
