@@ -10,13 +10,11 @@ public:
         while(right < fruits.size()){
             mpp[fruits[right]]++;
             if(mpp.size() > 2){
-                while(mpp.size() > 2){
                     mpp[fruits[left]]--;
                     if(mpp[fruits[left]] == 0){
                         mpp.erase(fruits[left]);
                         }
                         left++;
-                        }
                         }
                         maxlength = max(maxlength, right - left + 1);
                             right++;
