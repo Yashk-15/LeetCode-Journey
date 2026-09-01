@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0904-fruit-into-baskets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
+| [0904-fruit-into-baskets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
