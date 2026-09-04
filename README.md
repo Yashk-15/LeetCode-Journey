@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
