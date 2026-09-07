@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0443-string-compression](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
