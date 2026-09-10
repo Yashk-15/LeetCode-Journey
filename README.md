@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0443-string-compression) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0237-delete-node-in-a-linked-list) |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
