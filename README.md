@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
@@ -225,5 +228,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0148-sort-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
