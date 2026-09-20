@@ -202,15 +202,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
