@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0138-copy-list-with-random-pointer) |
@@ -274,8 +277,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0455-assign-cookies) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
