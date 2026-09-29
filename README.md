@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0078-subsets) |
 ## Quicksort
 |  |
 | ------- |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
