@@ -1,8 +1,7 @@
  class Solution{
     public:
         void recursiveCall(int i, string sumPath, long sum, long prev, string num, int target, vector<string> &result){
-            if (i == num.size())
-            {
+            if (i == num.size()){
                 if (sum == target){
                     result.push_back(sumPath);
                 }
@@ -30,7 +29,6 @@
                 }
             }
         }
-
     vector<string> addOperators(string num, int target)
     {
         vector<string> result;
