@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0994-rotting-oranges) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yashk-15/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
