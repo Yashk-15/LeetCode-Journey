@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0860-lemonade-change) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
