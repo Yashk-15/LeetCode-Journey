@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
