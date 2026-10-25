@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yashk-15/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
