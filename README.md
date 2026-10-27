@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0057-insert-interval) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0135-candy) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
