@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashk-15/LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -391,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yashk-15/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
